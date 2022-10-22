@@ -32,3 +32,13 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Creating Docs
+-------------
+
+To be able to create docs, you need a few stuff
+   
+.. code-block:: console
+
+   $ pip install test
+
+is this working?
